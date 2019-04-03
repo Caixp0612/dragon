@@ -6,3 +6,5 @@
 =======
 好烦，整天都得考虑工作赚钱！
 >>>>>>> feature1
+
+insert a new line in this file.
