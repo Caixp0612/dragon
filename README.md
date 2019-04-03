@@ -8,3 +8,4 @@
 >>>>>>> feature1
 
 insert a new line in this file.
+test a bug!
